@@ -20,5 +20,9 @@
 * linux c http接口
 * linux c web小论坛
 # 二、在研究的项目
-
+* [Uber Go 语言编码规范中文版](https://github.com/laijinhang/uber_go_guide_cn)
+* [mysql-deadlocks](https://github.com/laijinhang/mysql-deadlocks)
+* [Go语法树入门](https://github.com/laijinhang/go-ast-book)
 # 三、曾参与的项目
+* [go-admin](https://github.com/GoAdminGroup/go-admin)
+* [seata-golang](https://github.com/laijinhang/seata-golang)
