@@ -1,6 +1,7 @@
 # 一、个人项目
 ## 笔记
 * [go-personal-notes](https://github.com/laijinhang/go-personal-notes)
+* [linux c并发编程](https://github.com/laijinhang/linux-c-concurrent-programming-book)
 ## 算法
 * [leetcode-golang](https://github.com/laijinhang/leetcode-golang)
 ## Golang项目
